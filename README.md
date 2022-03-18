@@ -1,0 +1,1 @@
+This is a replicated code of the UI animation of the sequence.build website
